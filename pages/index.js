@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Link from "next/link";
 // import { useCollection } from "react-firebase-hooks/firestore";
-import { store } from "../firebaseConfig";
+// import { store } from "../firebaseConfig";
 import NewsPost from "../components/NewsPost";
 
 export default function Home() {
